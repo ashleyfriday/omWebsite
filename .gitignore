@@ -1,6 +1,7 @@
 .DS_Store
 .impeccable/
-ring imgs/
-ring vids/
+ring vids/*
+!ring vids/Solitaire_360.mp4
+!ring vids/HiddenHalo_360.mp4
 font-options.html
 studio-guided-v2.html
