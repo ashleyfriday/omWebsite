@@ -1,0 +1,41 @@
+Homepage B images: save each file here (assets/home/b/) as .jpg with the exact name.
+Any file you add replaces the Unsplash placeholder automatically; missing ones keep the placeholder.
+
+HERO
+  hero-bg.jpg               Full-screen hero background (landscape, 2400px wide)
+  hero-pill-bench.jpg       Small pill inside the headline, after "The brand" (wide crop, ~600x300)
+
+WHY JEWELERS PARTNER WITH US
+  why-1-store.jpg           Sell what you don't stock (jewelry store / display case)
+  why-2-bench.jpg           Custom without the risk (bench jeweler / CAD)
+  why-4-hand.jpg            Your brand, our assets (ring on a hand)
+  (card 3, Diamonds on demand, already uses assets/BC56072226_Diamondimage.jpg)
+
+TOOLS THAT CLOSE THE SALE (Enterprise tab)
+  tools-hd-photo.jpg        Small "HD photo · 14K white" card in the 360° Viewer preview
+  tools-library-1.jpg       Marketing Library grid, tile 1
+  tools-library-2.jpg       Marketing Library grid, tile 4
+
+CRAFTED WITH EXCELLENCE (photo revealed on hover)
+  process-1-design.jpg      Design card (CAD / 3D printing)
+  process-2-cast.jpg        Cast card (casting / bench work)
+  process-3-deliver.jpg     Deliver card (finished piece / shipping)
+
+SHOP THE COLLECTIONS (tall portrait panels, ~1100px wide)
+  coll-engagement.jpg       Engagement Rings
+  coll-wedding-bands.jpg    Wedding Bands (men's)
+  coll-studs.jpg            Diamond Studs
+  coll-lattice.jpg          Lattice
+
+HERITAGE
+  heritage-1-jeweler.jpg    Large photo, master jeweler
+  heritage-2-bench.jpg      Smaller photo, bench work
+
+FROM ONE JEWELER TO ANOTHER (portrait 4:5, one per quote)
+  voices-1.jpg              Custom & CAD quote
+  voices-2.jpg              Bridal Builder quote
+  voices-3.jpg              Production quote
+
+PLANNING A PROPOSAL?
+  consumer-bg.jpg           Full-width background behind the card
+assets/home/b/diamonds-feature.jpg    Diamonds section, right-hand image (portrait, tall)
